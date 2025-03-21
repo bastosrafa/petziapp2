@@ -1,0 +1,12 @@
+{
+  "projects": {
+<<<<<<< HEAD
+    "Petzia": "petzia-f86b4",
+=======
+    "default": "template-90106",
+>>>>>>> 92ceedfebe3e9a74095ea4dd8621d91cb999ccb8
+    "ignore": "Altere acima com o código do seu projeto"
+  },
+  "targets": {},
+  "etags": {}
+}
